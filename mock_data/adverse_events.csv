@@ -1,0 +1,5 @@
+data_status,snapshot_generated_at,id,region_code,region_name,modality,severity,report_date,alert_status,short_description
+SYNTHETIC DATA — NOT REAL,2026-10-10,demo-ae-001,AE,United Arab Emirates,Herbal Medicine,moderate,2025-10-14,monitoring,Demonstration record: a fictional product interaction report awaiting review.
+SYNTHETIC DATA — NOT REAL,2026-10-10,demo-ae-002,SA,Saudi Arabia,Cupping,low,2025-11-03,closed,Demonstration record: a fictional minor reaction report marked closed.
+SYNTHETIC DATA — NOT REAL,2026-10-10,demo-ae-003,QA,Qatar,Ayurveda,high,2025-12-09,open,Demonstration record: a fictional event submitted for clinical review.
+SYNTHETIC DATA — NOT REAL,2026-10-10,demo-ae-004,AE,United Arab Emirates,Acupuncture,low,2026-01-18,monitoring,Demonstration record: a fictional post-session report under observation.

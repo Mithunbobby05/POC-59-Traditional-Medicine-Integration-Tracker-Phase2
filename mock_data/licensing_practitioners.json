@@ -1,0 +1,171 @@
+{
+  "data_status": "SYNTHETIC DATA — NOT REAL",
+  "snapshot_generated_at": "2026-10-10",
+  "records": [
+    {
+      "region_code": "AE",
+      "region_name": "United Arab Emirates",
+      "country": "United Arab Emirates",
+      "latitude": 24.4539,
+      "longitude": 54.3773,
+      "modality": "Ayurveda",
+      "total_licenses": 120,
+      "compliant_licenses": 112,
+      "compliance_rate": 93.3
+    },
+    {
+      "region_code": "AE",
+      "region_name": "United Arab Emirates",
+      "country": "United Arab Emirates",
+      "latitude": 24.4539,
+      "longitude": 54.3773,
+      "modality": "Unani",
+      "total_licenses": 84,
+      "compliant_licenses": 76,
+      "compliance_rate": 90.5
+    },
+    {
+      "region_code": "AE",
+      "region_name": "United Arab Emirates",
+      "country": "United Arab Emirates",
+      "latitude": 24.4539,
+      "longitude": 54.3773,
+      "modality": "Acupuncture",
+      "total_licenses": 96,
+      "compliant_licenses": 91,
+      "compliance_rate": 94.8
+    },
+    {
+      "region_code": "AE",
+      "region_name": "United Arab Emirates",
+      "country": "United Arab Emirates",
+      "latitude": 24.4539,
+      "longitude": 54.3773,
+      "modality": "Cupping",
+      "total_licenses": 110,
+      "compliant_licenses": 101,
+      "compliance_rate": 91.8
+    },
+    {
+      "region_code": "AE",
+      "region_name": "United Arab Emirates",
+      "country": "United Arab Emirates",
+      "latitude": 24.4539,
+      "longitude": 54.3773,
+      "modality": "Herbal Medicine",
+      "total_licenses": 72,
+      "compliant_licenses": 64,
+      "compliance_rate": 88.9
+    },
+    {
+      "region_code": "SA",
+      "region_name": "Saudi Arabia",
+      "country": "Saudi Arabia",
+      "latitude": 24.7136,
+      "longitude": 46.6753,
+      "modality": "Ayurveda",
+      "total_licenses": 90,
+      "compliant_licenses": 81,
+      "compliance_rate": 90.0
+    },
+    {
+      "region_code": "SA",
+      "region_name": "Saudi Arabia",
+      "country": "Saudi Arabia",
+      "latitude": 24.7136,
+      "longitude": 46.6753,
+      "modality": "Unani",
+      "total_licenses": 105,
+      "compliant_licenses": 95,
+      "compliance_rate": 90.5
+    },
+    {
+      "region_code": "SA",
+      "region_name": "Saudi Arabia",
+      "country": "Saudi Arabia",
+      "latitude": 24.7136,
+      "longitude": 46.6753,
+      "modality": "Acupuncture",
+      "total_licenses": 78,
+      "compliant_licenses": 72,
+      "compliance_rate": 92.3
+    },
+    {
+      "region_code": "SA",
+      "region_name": "Saudi Arabia",
+      "country": "Saudi Arabia",
+      "latitude": 24.7136,
+      "longitude": 46.6753,
+      "modality": "Cupping",
+      "total_licenses": 130,
+      "compliant_licenses": 116,
+      "compliance_rate": 89.2
+    },
+    {
+      "region_code": "SA",
+      "region_name": "Saudi Arabia",
+      "country": "Saudi Arabia",
+      "latitude": 24.7136,
+      "longitude": 46.6753,
+      "modality": "Herbal Medicine",
+      "total_licenses": 150,
+      "compliant_licenses": 134,
+      "compliance_rate": 89.3
+    },
+    {
+      "region_code": "QA",
+      "region_name": "Qatar",
+      "country": "Qatar",
+      "latitude": 25.2854,
+      "longitude": 51.531,
+      "modality": "Ayurveda",
+      "total_licenses": 64,
+      "compliant_licenses": 58,
+      "compliance_rate": 90.6
+    },
+    {
+      "region_code": "QA",
+      "region_name": "Qatar",
+      "country": "Qatar",
+      "latitude": 25.2854,
+      "longitude": 51.531,
+      "modality": "Unani",
+      "total_licenses": 52,
+      "compliant_licenses": 46,
+      "compliance_rate": 88.5
+    },
+    {
+      "region_code": "QA",
+      "region_name": "Qatar",
+      "country": "Qatar",
+      "latitude": 25.2854,
+      "longitude": 51.531,
+      "modality": "Acupuncture",
+      "total_licenses": 71,
+      "compliant_licenses": 65,
+      "compliance_rate": 91.5
+    },
+    {
+      "region_code": "QA",
+      "region_name": "Qatar",
+      "country": "Qatar",
+      "latitude": 25.2854,
+      "longitude": 51.531,
+      "modality": "Cupping",
+      "total_licenses": 83,
+      "compliant_licenses": 75,
+      "compliance_rate": 90.4
+    },
+    {
+      "region_code": "QA",
+      "region_name": "Qatar",
+      "country": "Qatar",
+      "latitude": 25.2854,
+      "longitude": 51.531,
+      "modality": "Herbal Medicine",
+      "total_licenses": 91,
+      "compliant_licenses": 82,
+      "compliance_rate": 90.1
+    }
+  ]
+}

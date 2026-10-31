@@ -1,0 +1,16 @@
+data_status,snapshot_generated_at,region_code,region_name,country,latitude,longitude,modality,total_licenses,compliant_licenses,compliance_rate
+SYNTHETIC DATA — NOT REAL,2026-10-10,AE,United Arab Emirates,United Arab Emirates,24.4539,54.3773,Ayurveda,120,112,93.3
+SYNTHETIC DATA — NOT REAL,2026-10-10,AE,United Arab Emirates,United Arab Emirates,24.4539,54.3773,Unani,84,76,90.5
+SYNTHETIC DATA — NOT REAL,2026-10-10,AE,United Arab Emirates,United Arab Emirates,24.4539,54.3773,Acupuncture,96,91,94.8
+SYNTHETIC DATA — NOT REAL,2026-10-10,AE,United Arab Emirates,United Arab Emirates,24.4539,54.3773,Cupping,110,101,91.8
+SYNTHETIC DATA — NOT REAL,2026-10-10,AE,United Arab Emirates,United Arab Emirates,24.4539,54.3773,Herbal Medicine,72,64,88.9
+SYNTHETIC DATA — NOT REAL,2026-10-10,SA,Saudi Arabia,Saudi Arabia,24.7136,46.6753,Ayurveda,90,81,90.0
+SYNTHETIC DATA — NOT REAL,2026-10-10,SA,Saudi Arabia,Saudi Arabia,24.7136,46.6753,Unani,105,95,90.5
+SYNTHETIC DATA — NOT REAL,2026-10-10,SA,Saudi Arabia,Saudi Arabia,24.7136,46.6753,Acupuncture,78,72,92.3
+SYNTHETIC DATA — NOT REAL,2026-10-10,SA,Saudi Arabia,Saudi Arabia,24.7136,46.6753,Cupping,130,116,89.2
+SYNTHETIC DATA — NOT REAL,2026-10-10,SA,Saudi Arabia,Saudi Arabia,24.7136,46.6753,Herbal Medicine,150,134,89.3
+SYNTHETIC DATA — NOT REAL,2026-10-10,QA,Qatar,Qatar,25.2854,51.531,Ayurveda,64,58,90.6
+SYNTHETIC DATA — NOT REAL,2026-10-10,QA,Qatar,Qatar,25.2854,51.531,Unani,52,46,88.5
+SYNTHETIC DATA — NOT REAL,2026-10-10,QA,Qatar,Qatar,25.2854,51.531,Acupuncture,71,65,91.5
+SYNTHETIC DATA — NOT REAL,2026-10-10,QA,Qatar,Qatar,25.2854,51.531,Cupping,83,75,90.4
+SYNTHETIC DATA — NOT REAL,2026-10-10,QA,Qatar,Qatar,25.2854,51.531,Herbal Medicine,91,82,90.1

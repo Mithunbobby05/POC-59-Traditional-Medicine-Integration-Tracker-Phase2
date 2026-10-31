@@ -1,0 +1,4 @@
+data_status,snapshot_generated_at,source,target,volume
+SYNTHETIC DATA — NOT REAL,2026-10-10,Traditional / Complementary Care,Assessment / Referral,180
+SYNTHETIC DATA — NOT REAL,2026-10-10,Assessment / Referral,Conventional Care,72
+SYNTHETIC DATA — NOT REAL,2026-10-10,Conventional Care,Follow-up,68
