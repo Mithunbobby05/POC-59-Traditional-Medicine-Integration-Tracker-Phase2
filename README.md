@@ -76,13 +76,13 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000). The frontend API helper defaults to `http://127.0.0.1:8000`. To override it, create `frontend/.env.local` containing:
+Open [http://localhost:3000](http://localhost:3000). The browser calls same-origin `/api/...` paths, and the Next.js server forwards them using `BACKEND_API_URL`. For local development, `frontend/.env.local` points this proxy at the backend running on the host:
 
 ```text
-NEXT_PUBLIC_API_BASE_URL=http://127.0.0.1:8000
+BACKEND_API_URL=http://127.0.0.1:8000
 ```
 
-The backend CORS configuration permits the local frontend origins `http://localhost:3000` and `http://127.0.0.1:3000`.
+Docker Compose sets `BACKEND_API_URL=http://backend:8000` for the frontend container. In Azure Container Apps, set `BACKEND_API_URL` on the frontend Container App to the backend app's HTTPS origin (for example, `https://poc59-app.mangomeadow-17b0a1f3.centralindia.azurecontainerapps.io`). This is a runtime setting, so it can be changed without rebuilding the frontend image. The backend CORS configuration permits the local frontend origins `http://localhost:3000` and `http://127.0.0.1:3000`; browser requests to the backend use the same-origin frontend proxy.
 
 For macOS or Linux, create the virtual environment with `python3 -m venv .venv`, activate it with `source .venv/bin/activate`, then use `python -m pip install -r requirements.txt` and `python -m uvicorn app.main:app --reload --host 127.0.0.1 --port 8000`.
 

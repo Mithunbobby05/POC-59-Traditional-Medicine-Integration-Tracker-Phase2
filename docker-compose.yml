@@ -22,11 +22,11 @@ services:
     build:
       context: ./frontend
       dockerfile: Dockerfile
-      args:
-        BACKEND_API_URL: http://backend:8000
     container_name: poc59-frontend
     ports:
       - "3001:3000"
+    environment:
+      BACKEND_API_URL: http://backend:8000
     depends_on:
       backend:
         condition: service_healthy

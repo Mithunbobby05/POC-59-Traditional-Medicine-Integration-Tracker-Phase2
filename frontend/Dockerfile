@@ -11,9 +11,6 @@ COPY --from=dependencies /app/node_modules ./node_modules
 COPY . .
 
 ENV NEXT_TELEMETRY_DISABLED=1
-ENV NEXT_PUBLIC_API_BASE_URL=""
-ARG BACKEND_API_URL=http://backend:8000
-ENV BACKEND_API_URL=${BACKEND_API_URL}
 
 RUN npm run build
 
